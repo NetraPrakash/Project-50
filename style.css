@@ -1,0 +1,23 @@
+h1{
+color: lightpink ;
+font-style: italic;
+}
+body{
+    background-color: deeppink;
+}
+h2{
+color: lightpink;
+}
+h3{
+color: gold;
+}
+h4{
+    color:dodgerblue;
+    font-size: xx-large;
+    font-style: italic;
+}
+ul{
+color: dodgerblue;
+font-size: xx-large;
+}
+
